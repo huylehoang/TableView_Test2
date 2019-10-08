@@ -1,0 +1,530 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MyFirstCellDelgate"
+- "MyFirstCell"
+provides-nominal:
+- "15TableView_Test218MyFirstCellDelgateP"
+- "15TableView_Test211MyFirstCellC"
+provides-member:
+- ["15TableView_Test218MyFirstCellDelgateP", ""]
+- ["15TableView_Test211MyFirstCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "lblDescription"
+- "moreButton"
+- "pressedMoreButton"
+- "setSelected"
+depends-top-level:
+- !private "??"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- "MyFirstCell"
+- "MyFirstCellDelgate"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UIButton"
+- "UILabel"
+- "UITableViewCell"
+- "ViewModel"
+depends-member:
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "awakeFromNib"]
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "lblDescription"]
+- !private ["So15CALayerDelegateP", "moreButton"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So15CALayerDelegateP", "setSelected"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["So15CALayerDelegateP", "setup"]
+- !private ["So15CALayerDelegateP", "sizeToFit"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "toggleMoreButtonTitle"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lblDescription"]
+- !private ["s7CVarArgP", "moreButton"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "setSelected"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "setup"]
+- !private ["s7CVarArgP", "sizeToFit"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "toggleMoreButtonTitle"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lblDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "moreButton"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "setSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "setup"]
+- !private ["s28CustomDebugStringConvertibleP", "sizeToFit"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "toggleMoreButtonTitle"]
+- !private ["s17CustomReflectableP", "setTitle"]
+- !private ["s17CustomReflectableP", "sizeToFit"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lblDescription"]
+- !private ["s23CustomStringConvertibleP", "moreButton"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "setSelected"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "setup"]
+- !private ["s23CustomStringConvertibleP", "sizeToFit"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "toggleMoreButtonTitle"]
+- !private ["Se", "setTitle"]
+- !private ["Se", "sizeToFit"]
+- !private ["Se", "text"]
+- !private ["SE", "setTitle"]
+- !private ["SE", "sizeToFit"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lblDescription"]
+- !private ["SQ", "moreButton"]
+- !private ["SQ", "none"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "setSelected"]
+- !private ["SQ", "setTitle"]
+- !private ["SQ", "setup"]
+- !private ["SQ", "sizeToFit"]
+- !private ["SQ", "text"]
+- !private ["SQ", "toggleMoreButtonTitle"]
+- !private ["15TableView_Test20B5ModelC14ExpandableCellV", "expanded"]
+- !private ["15TableView_Test20B5ModelC14ExpandableCellV", "text"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s23ExpressibleByNilLiteralP", "setTitle"]
+- !private ["s23ExpressibleByNilLiteralP", "sizeToFit"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "delegate"]
+- !private ["SH", "init"]
+- !private ["SH", "lblDescription"]
+- !private ["SH", "moreButton"]
+- !private ["SH", "none"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "setSelected"]
+- !private ["SH", "setTitle"]
+- !private ["SH", "setup"]
+- !private ["SH", "sizeToFit"]
+- !private ["SH", "text"]
+- !private ["SH", "toggleMoreButtonTitle"]
+- ["15TableView_Test211MyFirstCellC", "Bool"]
+- ["15TableView_Test211MyFirstCellC", "MyFirstCellDelgate"]
+- ["15TableView_Test211MyFirstCellC", "UIButton"]
+- ["15TableView_Test211MyFirstCellC", "UILabel"]
+- ["15TableView_Test211MyFirstCellC", "ViewModel"]
+- ["15TableView_Test211MyFirstCellC", "awakeFromNib"]
+- ["15TableView_Test211MyFirstCellC", "deinit"]
+- ["15TableView_Test211MyFirstCellC", "delegate"]
+- ["15TableView_Test211MyFirstCellC", "init"]
+- ["15TableView_Test211MyFirstCellC", "lblDescription"]
+- ["15TableView_Test211MyFirstCellC", "moreButton"]
+- ["15TableView_Test211MyFirstCellC", "pressedMoreButton"]
+- !private ["15TableView_Test211MyFirstCellC", "selectionStyle"]
+- ["15TableView_Test211MyFirstCellC", "setSelected"]
+- ["15TableView_Test211MyFirstCellC", "setup"]
+- !private ["15TableView_Test211MyFirstCellC", "toggleMoreButtonTitle"]
+- ["15TableView_Test218MyFirstCellDelgateP", "MyFirstCell"]
+- ["15TableView_Test218MyFirstCellDelgateP", "pressedMoreButton"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "awakeFromNib"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lblDescription"]
+- !private ["So8NSCodingP", "moreButton"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- !private ["So8NSCodingP", "setSelected"]
+- !private ["So8NSCodingP", "setTitle"]
+- !private ["So8NSCodingP", "setup"]
+- !private ["So8NSCodingP", "sizeToFit"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "toggleMoreButtonTitle"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "MyFirstCellDelgate"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "ViewModel"]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "lblDescription"]
+- ["So8NSObjectC", "moreButton"]
+- ["So8NSObjectC", "pressedMoreButton"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- ["So8NSObjectC", "setSelected"]
+- !private ["So8NSObjectC", "setTitle"]
+- ["So8NSObjectC", "setup"]
+- !private ["So8NSObjectC", "sizeToFit"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "toggleMoreButtonTitle"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "awakeFromNib"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lblDescription"]
+- !private ["So8NSObjectP", "moreButton"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So8NSObjectP", "setSelected"]
+- !private ["So8NSObjectP", "setTitle"]
+- !private ["So8NSObjectP", "setup"]
+- !private ["So8NSObjectP", "sizeToFit"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "toggleMoreButtonTitle"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["Sq", "setTitle"]
+- !private ["Sq", "sizeToFit"]
+- !private ["Sq", "text"]
+- !private ["SY", "none"]
+- !private ["SY", "normal"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["So14UIControlStateV", "normal"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "lblDescription"]
+- !private ["So29UIAccessibilityIdentificationP", "moreButton"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "setSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "setup"]
+- !private ["So29UIAccessibilityIdentificationP", "sizeToFit"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "toggleMoreButtonTitle"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "awakeFromNib"]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "lblDescription"]
+- !private ["So12UIAppearanceP", "moreButton"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "setSelected"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- !private ["So12UIAppearanceP", "setup"]
+- !private ["So12UIAppearanceP", "sizeToFit"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "toggleMoreButtonTitle"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "awakeFromNib"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lblDescription"]
+- !private ["So21UIAppearanceContainerP", "moreButton"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "setSelected"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "setup"]
+- !private ["So21UIAppearanceContainerP", "sizeToFit"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "toggleMoreButtonTitle"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "sizeToFit"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "setTitle"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "awakeFromNib"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "lblDescription"]
+- !private ["So17UICoordinateSpaceP", "moreButton"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "setSelected"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- !private ["So17UICoordinateSpaceP", "setup"]
+- !private ["So17UICoordinateSpaceP", "sizeToFit"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "toggleMoreButtonTitle"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "awakeFromNib"]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "lblDescription"]
+- !private ["So13UIDynamicItemP", "moreButton"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "setSelected"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- !private ["So13UIDynamicItemP", "setup"]
+- !private ["So13UIDynamicItemP", "sizeToFit"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "toggleMoreButtonTitle"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lblDescription"]
+- !private ["So18UIFocusEnvironmentP", "moreButton"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "setSelected"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "setup"]
+- !private ["So18UIFocusEnvironmentP", "sizeToFit"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "toggleMoreButtonTitle"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "awakeFromNib"]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "lblDescription"]
+- !private ["So11UIFocusItemP", "moreButton"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "setSelected"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- !private ["So11UIFocusItemP", "setup"]
+- !private ["So11UIFocusItemP", "sizeToFit"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "toggleMoreButtonTitle"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "awakeFromNib"]
+- !private ["So20UIFocusItemContainerP", "delegate"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "lblDescription"]
+- !private ["So20UIFocusItemContainerP", "moreButton"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "setSelected"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- !private ["So20UIFocusItemContainerP", "setup"]
+- !private ["So20UIFocusItemContainerP", "sizeToFit"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "toggleMoreButtonTitle"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- !private ["So27UIGestureRecognizerDelegateP", "awakeFromNib"]
+- !private ["So27UIGestureRecognizerDelegateP", "delegate"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "lblDescription"]
+- !private ["So27UIGestureRecognizerDelegateP", "moreButton"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So27UIGestureRecognizerDelegateP", "setSelected"]
+- !private ["So27UIGestureRecognizerDelegateP", "setup"]
+- !private ["So27UIGestureRecognizerDelegateP", "toggleMoreButtonTitle"]
+- !private ["So7UILabelC", "sizeToFit"]
+- !private ["So7UILabelC", "text"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lblDescription"]
+- !private ["So30UIPasteConfigurationSupportingP", "moreButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setup"]
+- !private ["So30UIPasteConfigurationSupportingP", "sizeToFit"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "toggleMoreButtonTitle"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "MyFirstCellDelgate"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "ViewModel"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "delegate"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "lblDescription"]
+- ["So11UIResponderC", "moreButton"]
+- ["So11UIResponderC", "pressedMoreButton"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- ["So11UIResponderC", "setSelected"]
+- !private ["So11UIResponderC", "setTitle"]
+- ["So11UIResponderC", "setup"]
+- !private ["So11UIResponderC", "sizeToFit"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "toggleMoreButtonTitle"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lblDescription"]
+- !private ["So30UIResponderStandardEditActionsP", "moreButton"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "setSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "setup"]
+- !private ["So30UIResponderStandardEditActionsP", "sizeToFit"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "toggleMoreButtonTitle"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- ["So15UITableViewCellC", "Bool"]
+- ["So15UITableViewCellC", "MyFirstCellDelgate"]
+- ["So15UITableViewCellC", "UIButton"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", "ViewModel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "delegate"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "lblDescription"]
+- ["So15UITableViewCellC", "moreButton"]
+- ["So15UITableViewCellC", "pressedMoreButton"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So15UITableViewCellC", "setSelected"]
+- ["So15UITableViewCellC", "setup"]
+- ["So15UITableViewCellC", "toggleMoreButtonTitle"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "awakeFromNib"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lblDescription"]
+- !private ["So18UITraitEnvironmentP", "moreButton"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So18UITraitEnvironmentP", "setSelected"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- !private ["So18UITraitEnvironmentP", "setup"]
+- !private ["So18UITraitEnvironmentP", "sizeToFit"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "toggleMoreButtonTitle"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "lblDescription"]
+- !private ["So23UIUserActivityRestoringP", "moreButton"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "setSelected"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- !private ["So23UIUserActivityRestoringP", "setup"]
+- !private ["So23UIUserActivityRestoringP", "sizeToFit"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "toggleMoreButtonTitle"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "MyFirstCellDelgate"]
+- ["So6UIViewC", "UIButton"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "ViewModel"]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "delegate"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "lblDescription"]
+- ["So6UIViewC", "moreButton"]
+- ["So6UIViewC", "pressedMoreButton"]
+- !private ["So6UIViewC", "selectionStyle"]
+- ["So6UIViewC", "setSelected"]
+- !private ["So6UIViewC", "setTitle"]
+- ["So6UIViewC", "setup"]
+- !private ["So6UIViewC", "sizeToFit"]
+- !private ["So6UIViewC", "text"]
+- ["So6UIViewC", "toggleMoreButtonTitle"]
+- ["15TableView_Test20B5ModelC", "ExpandableCell"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lblDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moreButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setup"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sizeToFit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toggleMoreButtonTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "setTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "sizeToFit"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lblDescription"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "moreButton"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setSelected"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setup"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "sizeToFit"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "toggleMoreButtonTitle"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "15TableView_Test20B5ModelC14ExpandableCellV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "15TableView_Test211MyFirstCellC"
+- "15TableView_Test218MyFirstCellDelgateP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- !private "So29UITableViewCellSelectionStyleV"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "15TableView_Test20B5ModelC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0fe99dac31ec7b08c866921dfa14e1d8"

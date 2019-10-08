@@ -1,0 +1,154 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ItemPath"
+- "=="
+provides-nominal:
+- "14Differentiator8ItemPathV"
+provides-member:
+- ["14Differentiator8ItemPathV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "Equatable"
+- "Hashable"
+- "Hasher"
+- "Int"
+- "ItemPath"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "byteSwapped"]
+- !private ["s18AdditiveArithmeticP", "hashValue"]
+- !private ["Sz", "byteSwapped"]
+- !private ["Sz", "hashValue"]
+- !private ["s7CVarArgP", "byteSwapped"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["SL", "byteSwapped"]
+- !private ["SL", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "itemIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "sectionIndex"]
+- !private ["s17CustomReflectableP", "byteSwapped"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "byteSwapped"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["Se", "byteSwapped"]
+- !private ["Se", "hashValue"]
+- !private ["SE", "byteSwapped"]
+- !private ["SE", "hashValue"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "byteSwapped"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "itemIndex"]
+- !private ["SQ", "sectionIndex"]
+- !private ["s27ExpressibleByIntegerLiteralP", "byteSwapped"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s17FixedWidthIntegerP", "byteSwapped"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "byteSwapped"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "itemIndex"]
+- !private ["SH", "sectionIndex"]
+- !private ["s6HasherV", "combine"]
+- !private ["Si", "byteSwapped"]
+- !private ["Si", "hashValue"]
+- ["14Differentiator8ItemPathV", "=="]
+- ["14Differentiator8ItemPathV", "Hasher"]
+- ["14Differentiator8ItemPathV", "Int"]
+- ["14Differentiator8ItemPathV", "_rawHashValue"]
+- ["14Differentiator8ItemPathV", "deinit"]
+- ["14Differentiator8ItemPathV", "hash"]
+- ["14Differentiator8ItemPathV", "hashValue"]
+- ["14Differentiator8ItemPathV", "init"]
+- ["14Differentiator8ItemPathV", "itemIndex"]
+- ["14Differentiator8ItemPathV", "sectionIndex"]
+- !private ["s25LosslessStringConvertibleP", "byteSwapped"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s10MirrorPathP", "byteSwapped"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["Sj", "byteSwapped"]
+- !private ["Sj", "hashValue"]
+- !private ["s10SIMDScalarP", "byteSwapped"]
+- !private ["s10SIMDScalarP", "hashValue"]
+- !private ["SZ", "byteSwapped"]
+- !private ["SZ", "hashValue"]
+- !private ["s13SignedNumericP", "byteSwapped"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["Sx", "byteSwapped"]
+- !private ["Sx", "hashValue"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "byteSwapped"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "byteSwapped"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "byteSwapped"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hashValue"]
+- !private ["s21_ObjectiveCBridgeableP", "byteSwapped"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "s6HasherV"
+- !private "Si"
+- "14Differentiator8ItemPathV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "Sj"
+- !private "s10SIMDScalarP"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/Differentiator/Differentiator-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Differentiator.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ef8aeee9d572997c8084ad83c1238702"

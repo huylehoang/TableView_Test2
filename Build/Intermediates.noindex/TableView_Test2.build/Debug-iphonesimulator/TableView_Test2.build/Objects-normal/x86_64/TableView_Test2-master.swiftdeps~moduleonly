@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "eecf621df554e6c529cb10942fb4025d"
+build_time: [1569831396, 131486000]
+inputs:
+  "/Users/Leex/TableView_Test2/TableView_Test2/ViewModel/ViewModel.swift": [1569831395, 940544657]
+  "/Users/Leex/TableView_Test2/TableView_Test2/ViewController.swift": [1569831311, 28146711]
+  "/Users/Leex/TableView_Test2/TableView_Test2/AppDelegate.swift": [1567530254, 995141356]
+  "/Users/Leex/TableView_Test2/TableView_Test2/Common/LoadingViewable.swift": [1569428920, 751917827]
+  "/Users/Leex/TableView_Test2/TableView_Test2/Cells/MyFirstCell.swift": [1569320918, 442737079]
+  "/Users/Leex/TableView_Test2/TableView_Test2/Common/Extensions.swift": [1569299704, 610638148]
+  "/Users/Leex/TableView_Test2/TableView_Test2/Common/VCTrasnsition.swift": [1569307462, 190966250]
+  "/Users/Leex/TableView_Test2/TableView_Test2/DetailViewController.swift": [1569428112, 590968830]
+  "/Users/Leex/TableView_Test2/TableView_Test2/ViewModel/SectionModel.swift": [1569225545, 693859797]
+  "/Users/Leex/TableView_Test2/TableView_Test2/APIManager/APIClient.swift": [1569317151, 943277446]

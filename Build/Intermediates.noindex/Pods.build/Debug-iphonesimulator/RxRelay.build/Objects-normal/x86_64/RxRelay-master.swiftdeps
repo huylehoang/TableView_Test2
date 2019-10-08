@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "194c278269a25bb155a7c690ecce1df8"
+build_time: [1569224727, 858951000]
+inputs:
+  "/Users/Leex/TableView_Test2/Pods/RxRelay/RxRelay/BehaviorRelay.swift": [1569221886, 283885555]
+  "/Users/Leex/TableView_Test2/Pods/RxRelay/RxRelay/Observable+Bind.swift": [1569221886, 282865846]
+  "/Users/Leex/TableView_Test2/Pods/RxRelay/RxRelay/PublishRelay.swift": [1569221886, 282397828]
+  "/Users/Leex/TableView_Test2/Pods/RxRelay/RxRelay/Utils.swift": [1569221886, 283326669]

@@ -1,0 +1,669 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MyFirstCell"
+provides-nominal:
+- "15TableView_Test211MyFirstCellC"
+provides-member:
+- ["15TableView_Test211MyFirstCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "lblDescription"
+- "moreButton"
+- "prepareForReuse"
+- "setSelected"
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "DisposeBag"
+- "MyFirstCell"
+- "PublishSubject"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "UIButton"
+- "UILabel"
+- "UITableViewCell"
+- "ViewModel"
+depends-member:
+- ["So15CALayerDelegateP", "DisposeBag"]
+- ["So15CALayerDelegateP", "PublishSubject"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "awakeFromNib"]
+- !private ["So15CALayerDelegateP", "disposeBagCell"]
+- !private ["So15CALayerDelegateP", "expandedAt"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "lblDescription"]
+- !private ["So15CALayerDelegateP", "moreButton"]
+- !private ["So15CALayerDelegateP", "rx"]
+- !private ["So15CALayerDelegateP", "selectionStyle"]
+- !private ["So15CALayerDelegateP", "setSelected"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["So15CALayerDelegateP", "setUpBinding"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", "DisposeBag"]
+- ["s7CVarArgP", "PublishSubject"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "disposeBagCell"]
+- !private ["s7CVarArgP", "expandedAt"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lblDescription"]
+- !private ["s7CVarArgP", "moreButton"]
+- !private ["s7CVarArgP", "rx"]
+- !private ["s7CVarArgP", "selectionStyle"]
+- !private ["s7CVarArgP", "setSelected"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "setUpBinding"]
+- !private ["s7CVarArgP", "text"]
+- ["7RxSwift10CancelableP", "init"]
+- !private ["7RxSwift10CancelableP", "onNext"]
+- !private ["7RxCocoa12ControlEventV", "bind"]
+- !private ["7RxCocoa16ControlEventTypeP", "bind"]
+- ["s28CustomDebugStringConvertibleP", "DisposeBag"]
+- ["s28CustomDebugStringConvertibleP", "PublishSubject"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "disposeBagCell"]
+- !private ["s28CustomDebugStringConvertibleP", "expandedAt"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lblDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "moreButton"]
+- !private ["s28CustomDebugStringConvertibleP", "rx"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "setSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "setUpBinding"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s17CustomReflectableP", "rx"]
+- !private ["s17CustomReflectableP", "setTitle"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", "DisposeBag"]
+- ["s23CustomStringConvertibleP", "PublishSubject"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "disposeBagCell"]
+- !private ["s23CustomStringConvertibleP", "expandedAt"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lblDescription"]
+- !private ["s23CustomStringConvertibleP", "moreButton"]
+- !private ["s23CustomStringConvertibleP", "rx"]
+- !private ["s23CustomStringConvertibleP", "selectionStyle"]
+- !private ["s23CustomStringConvertibleP", "setSelected"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "setUpBinding"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["Se", "rx"]
+- !private ["Se", "setTitle"]
+- !private ["Se", "text"]
+- ["7RxSwift10DisposableP", "init"]
+- !private ["7RxSwift10DisposableP", "onNext"]
+- ["7RxSwift10DisposeBagC", "init"]
+- ["7RxSwift11DisposeBaseC", "init"]
+- !private ["SE", "rx"]
+- !private ["SE", "setTitle"]
+- !private ["SE", "text"]
+- ["SQ", "DisposeBag"]
+- ["SQ", "PublishSubject"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "disposeBagCell"]
+- !private ["SQ", "expandedAt"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lblDescription"]
+- !private ["SQ", "moreButton"]
+- !private ["SQ", "none"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "rx"]
+- !private ["SQ", "selectionStyle"]
+- !private ["SQ", "setSelected"]
+- !private ["SQ", "setTitle"]
+- !private ["SQ", "setUpBinding"]
+- !private ["SQ", "text"]
+- !private ["15TableView_Test20B5ModelC14ExpandableCellV", "expanded"]
+- !private ["15TableView_Test20B5ModelC14ExpandableCellV", "text"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s23ExpressibleByNilLiteralP", "rx"]
+- !private ["s23ExpressibleByNilLiteralP", "setTitle"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["SH", "DisposeBag"]
+- ["SH", "PublishSubject"]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "disposeBagCell"]
+- !private ["SH", "expandedAt"]
+- !private ["SH", "init"]
+- !private ["SH", "lblDescription"]
+- !private ["SH", "moreButton"]
+- !private ["SH", "none"]
+- !private ["SH", "rx"]
+- !private ["SH", "selectionStyle"]
+- !private ["SH", "setSelected"]
+- !private ["SH", "setTitle"]
+- !private ["SH", "setUpBinding"]
+- !private ["SH", "text"]
+- ["15TableView_Test211MyFirstCellC", "Bool"]
+- ["15TableView_Test211MyFirstCellC", "DisposeBag"]
+- ["15TableView_Test211MyFirstCellC", "MyFirstCell"]
+- ["15TableView_Test211MyFirstCellC", "PublishSubject"]
+- ["15TableView_Test211MyFirstCellC", "UIButton"]
+- ["15TableView_Test211MyFirstCellC", "UILabel"]
+- ["15TableView_Test211MyFirstCellC", "ViewModel"]
+- ["15TableView_Test211MyFirstCellC", "awakeFromNib"]
+- ["15TableView_Test211MyFirstCellC", "binding"]
+- ["15TableView_Test211MyFirstCellC", "deinit"]
+- ["15TableView_Test211MyFirstCellC", "disposeBagCell"]
+- ["15TableView_Test211MyFirstCellC", "expandedAt"]
+- ["15TableView_Test211MyFirstCellC", "init"]
+- ["15TableView_Test211MyFirstCellC", "lblDescription"]
+- ["15TableView_Test211MyFirstCellC", "moreButton"]
+- ["15TableView_Test211MyFirstCellC", "prepareForReuse"]
+- !private ["15TableView_Test211MyFirstCellC", "selectionStyle"]
+- ["15TableView_Test211MyFirstCellC", "setSelected"]
+- !private ["15TableView_Test211MyFirstCellC", "setUpBinding"]
+- ["So8NSCodingP", "DisposeBag"]
+- ["So8NSCodingP", "PublishSubject"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "awakeFromNib"]
+- !private ["So8NSCodingP", "disposeBagCell"]
+- !private ["So8NSCodingP", "expandedAt"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lblDescription"]
+- !private ["So8NSCodingP", "moreButton"]
+- !private ["So8NSCodingP", "rx"]
+- !private ["So8NSCodingP", "selectionStyle"]
+- !private ["So8NSCodingP", "setSelected"]
+- !private ["So8NSCodingP", "setTitle"]
+- !private ["So8NSCodingP", "setUpBinding"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "DisposeBag"]
+- ["So8NSObjectC", "MyFirstCell"]
+- ["So8NSObjectC", "PublishSubject"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "ViewModel"]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "binding"]
+- ["So8NSObjectC", "disposeBagCell"]
+- ["So8NSObjectC", "expandedAt"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "lblDescription"]
+- ["So8NSObjectC", "moreButton"]
+- ["So8NSObjectC", "prepareForReuse"]
+- !private ["So8NSObjectC", "rx"]
+- !private ["So8NSObjectC", "selectionStyle"]
+- ["So8NSObjectC", "setSelected"]
+- !private ["So8NSObjectC", "setTitle"]
+- ["So8NSObjectC", "setUpBinding"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectP", "DisposeBag"]
+- ["So8NSObjectP", "PublishSubject"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "awakeFromNib"]
+- !private ["So8NSObjectP", "disposeBagCell"]
+- !private ["So8NSObjectP", "expandedAt"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lblDescription"]
+- !private ["So8NSObjectP", "moreButton"]
+- !private ["So8NSObjectP", "rx"]
+- !private ["So8NSObjectP", "selectionStyle"]
+- !private ["So8NSObjectP", "setSelected"]
+- !private ["So8NSObjectP", "setTitle"]
+- !private ["So8NSObjectP", "setUpBinding"]
+- !private ["So8NSObjectP", "text"]
+- ["7RxSwift10ObservableC", "init"]
+- !private ["7RxSwift10ObservableC", "onNext"]
+- !private ["7RxSwift25ObservableConvertibleTypeP", "bind"]
+- ["7RxSwift25ObservableConvertibleTypeP", "init"]
+- !private ["7RxSwift25ObservableConvertibleTypeP", "onNext"]
+- !private ["7RxSwift14ObservableTypeP", "bind"]
+- ["7RxSwift14ObservableTypeP", "init"]
+- !private ["7RxSwift14ObservableTypeP", "onNext"]
+- ["7RxSwift12ObserverTypeP", "init"]
+- !private ["7RxSwift12ObserverTypeP", "onNext"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["Sq", "rx"]
+- !private ["Sq", "setTitle"]
+- !private ["Sq", "text"]
+- ["7RxSwift14PublishSubjectC", "init"]
+- !private ["7RxSwift14PublishSubjectC", "onNext"]
+- !private ["SY", "none"]
+- !private ["SY", "normal"]
+- !private ["7RxSwift8ReactiveV", "tap"]
+- ["7RxSwift18ReactiveCompatibleP", "DisposeBag"]
+- ["7RxSwift18ReactiveCompatibleP", "PublishSubject"]
+- ["7RxSwift18ReactiveCompatibleP", ""]
+- !private ["7RxSwift18ReactiveCompatibleP", "awakeFromNib"]
+- !private ["7RxSwift18ReactiveCompatibleP", "disposeBagCell"]
+- !private ["7RxSwift18ReactiveCompatibleP", "expandedAt"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "lblDescription"]
+- !private ["7RxSwift18ReactiveCompatibleP", "moreButton"]
+- !private ["7RxSwift18ReactiveCompatibleP", "rx"]
+- !private ["7RxSwift18ReactiveCompatibleP", "selectionStyle"]
+- !private ["7RxSwift18ReactiveCompatibleP", "setSelected"]
+- !private ["7RxSwift18ReactiveCompatibleP", "setTitle"]
+- !private ["7RxSwift18ReactiveCompatibleP", "setUpBinding"]
+- !private ["7RxSwift18ReactiveCompatibleP", "text"]
+- !private ["So29UITableViewCellSelectionStyleV", "none"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["So14UIControlStateV", "normal"]
+- ["7RxSwift11SubjectTypeP", "init"]
+- !private ["7RxSwift11SubjectTypeP", "onNext"]
+- ["7RxSwift27SynchronizedUnsubscribeTypeP", "init"]
+- !private ["7RxSwift27SynchronizedUnsubscribeTypeP", "onNext"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "rx"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- ["So29UIAccessibilityIdentificationP", "DisposeBag"]
+- ["So29UIAccessibilityIdentificationP", "PublishSubject"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- !private ["So29UIAccessibilityIdentificationP", "disposeBagCell"]
+- !private ["So29UIAccessibilityIdentificationP", "expandedAt"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "lblDescription"]
+- !private ["So29UIAccessibilityIdentificationP", "moreButton"]
+- !private ["So29UIAccessibilityIdentificationP", "rx"]
+- !private ["So29UIAccessibilityIdentificationP", "selectionStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "setSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "setUpBinding"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- ["So12UIAppearanceP", "DisposeBag"]
+- ["So12UIAppearanceP", "PublishSubject"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "awakeFromNib"]
+- !private ["So12UIAppearanceP", "disposeBagCell"]
+- !private ["So12UIAppearanceP", "expandedAt"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "lblDescription"]
+- !private ["So12UIAppearanceP", "moreButton"]
+- !private ["So12UIAppearanceP", "rx"]
+- !private ["So12UIAppearanceP", "selectionStyle"]
+- !private ["So12UIAppearanceP", "setSelected"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- !private ["So12UIAppearanceP", "setUpBinding"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "DisposeBag"]
+- ["So21UIAppearanceContainerP", "PublishSubject"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "awakeFromNib"]
+- !private ["So21UIAppearanceContainerP", "disposeBagCell"]
+- !private ["So21UIAppearanceContainerP", "expandedAt"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lblDescription"]
+- !private ["So21UIAppearanceContainerP", "moreButton"]
+- !private ["So21UIAppearanceContainerP", "rx"]
+- !private ["So21UIAppearanceContainerP", "selectionStyle"]
+- !private ["So21UIAppearanceContainerP", "setSelected"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "setUpBinding"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So8UIButtonC", "rx"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "rx"]
+- !private ["So9UIControlC", "setTitle"]
+- ["So17UICoordinateSpaceP", "DisposeBag"]
+- ["So17UICoordinateSpaceP", "PublishSubject"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "awakeFromNib"]
+- !private ["So17UICoordinateSpaceP", "disposeBagCell"]
+- !private ["So17UICoordinateSpaceP", "expandedAt"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "lblDescription"]
+- !private ["So17UICoordinateSpaceP", "moreButton"]
+- !private ["So17UICoordinateSpaceP", "rx"]
+- !private ["So17UICoordinateSpaceP", "selectionStyle"]
+- !private ["So17UICoordinateSpaceP", "setSelected"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- !private ["So17UICoordinateSpaceP", "setUpBinding"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- ["So13UIDynamicItemP", "DisposeBag"]
+- ["So13UIDynamicItemP", "PublishSubject"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "awakeFromNib"]
+- !private ["So13UIDynamicItemP", "disposeBagCell"]
+- !private ["So13UIDynamicItemP", "expandedAt"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "lblDescription"]
+- !private ["So13UIDynamicItemP", "moreButton"]
+- !private ["So13UIDynamicItemP", "rx"]
+- !private ["So13UIDynamicItemP", "selectionStyle"]
+- !private ["So13UIDynamicItemP", "setSelected"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- !private ["So13UIDynamicItemP", "setUpBinding"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "DisposeBag"]
+- ["So18UIFocusEnvironmentP", "PublishSubject"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- !private ["So18UIFocusEnvironmentP", "disposeBagCell"]
+- !private ["So18UIFocusEnvironmentP", "expandedAt"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lblDescription"]
+- !private ["So18UIFocusEnvironmentP", "moreButton"]
+- !private ["So18UIFocusEnvironmentP", "rx"]
+- !private ["So18UIFocusEnvironmentP", "selectionStyle"]
+- !private ["So18UIFocusEnvironmentP", "setSelected"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "setUpBinding"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So11UIFocusItemP", "DisposeBag"]
+- ["So11UIFocusItemP", "PublishSubject"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "awakeFromNib"]
+- !private ["So11UIFocusItemP", "disposeBagCell"]
+- !private ["So11UIFocusItemP", "expandedAt"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "lblDescription"]
+- !private ["So11UIFocusItemP", "moreButton"]
+- !private ["So11UIFocusItemP", "rx"]
+- !private ["So11UIFocusItemP", "selectionStyle"]
+- !private ["So11UIFocusItemP", "setSelected"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- !private ["So11UIFocusItemP", "setUpBinding"]
+- !private ["So11UIFocusItemP", "text"]
+- ["So20UIFocusItemContainerP", "DisposeBag"]
+- ["So20UIFocusItemContainerP", "PublishSubject"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "awakeFromNib"]
+- !private ["So20UIFocusItemContainerP", "disposeBagCell"]
+- !private ["So20UIFocusItemContainerP", "expandedAt"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "lblDescription"]
+- !private ["So20UIFocusItemContainerP", "moreButton"]
+- !private ["So20UIFocusItemContainerP", "rx"]
+- !private ["So20UIFocusItemContainerP", "selectionStyle"]
+- !private ["So20UIFocusItemContainerP", "setSelected"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- !private ["So20UIFocusItemContainerP", "setUpBinding"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- ["So27UIGestureRecognizerDelegateP", "DisposeBag"]
+- ["So27UIGestureRecognizerDelegateP", "PublishSubject"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- !private ["So27UIGestureRecognizerDelegateP", "awakeFromNib"]
+- !private ["So27UIGestureRecognizerDelegateP", "disposeBagCell"]
+- !private ["So27UIGestureRecognizerDelegateP", "expandedAt"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "lblDescription"]
+- !private ["So27UIGestureRecognizerDelegateP", "moreButton"]
+- !private ["So27UIGestureRecognizerDelegateP", "selectionStyle"]
+- !private ["So27UIGestureRecognizerDelegateP", "setSelected"]
+- !private ["So27UIGestureRecognizerDelegateP", "setUpBinding"]
+- !private ["So7UILabelC", "text"]
+- ["So30UIPasteConfigurationSupportingP", "DisposeBag"]
+- ["So30UIPasteConfigurationSupportingP", "PublishSubject"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "disposeBagCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "expandedAt"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lblDescription"]
+- !private ["So30UIPasteConfigurationSupportingP", "moreButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "rx"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectionStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setUpBinding"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "DisposeBag"]
+- ["So11UIResponderC", "MyFirstCell"]
+- ["So11UIResponderC", "PublishSubject"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "ViewModel"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "binding"]
+- ["So11UIResponderC", "disposeBagCell"]
+- ["So11UIResponderC", "expandedAt"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "lblDescription"]
+- ["So11UIResponderC", "moreButton"]
+- ["So11UIResponderC", "prepareForReuse"]
+- !private ["So11UIResponderC", "rx"]
+- !private ["So11UIResponderC", "selectionStyle"]
+- ["So11UIResponderC", "setSelected"]
+- !private ["So11UIResponderC", "setTitle"]
+- ["So11UIResponderC", "setUpBinding"]
+- !private ["So11UIResponderC", "text"]
+- ["So30UIResponderStandardEditActionsP", "DisposeBag"]
+- ["So30UIResponderStandardEditActionsP", "PublishSubject"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- !private ["So30UIResponderStandardEditActionsP", "disposeBagCell"]
+- !private ["So30UIResponderStandardEditActionsP", "expandedAt"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lblDescription"]
+- !private ["So30UIResponderStandardEditActionsP", "moreButton"]
+- !private ["So30UIResponderStandardEditActionsP", "rx"]
+- !private ["So30UIResponderStandardEditActionsP", "selectionStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "setSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "setUpBinding"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "rx"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- ["So15UITableViewCellC", "Bool"]
+- ["So15UITableViewCellC", "DisposeBag"]
+- ["So15UITableViewCellC", "MyFirstCell"]
+- ["So15UITableViewCellC", "PublishSubject"]
+- ["So15UITableViewCellC", "UIButton"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", "ViewModel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "binding"]
+- ["So15UITableViewCellC", "disposeBagCell"]
+- ["So15UITableViewCellC", "expandedAt"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "lblDescription"]
+- ["So15UITableViewCellC", "moreButton"]
+- ["So15UITableViewCellC", "prepareForReuse"]
+- !private ["So15UITableViewCellC", "selectionStyle"]
+- ["So15UITableViewCellC", "setSelected"]
+- ["So15UITableViewCellC", "setUpBinding"]
+- ["So18UITraitEnvironmentP", "DisposeBag"]
+- ["So18UITraitEnvironmentP", "PublishSubject"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "awakeFromNib"]
+- !private ["So18UITraitEnvironmentP", "disposeBagCell"]
+- !private ["So18UITraitEnvironmentP", "expandedAt"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lblDescription"]
+- !private ["So18UITraitEnvironmentP", "moreButton"]
+- !private ["So18UITraitEnvironmentP", "rx"]
+- !private ["So18UITraitEnvironmentP", "selectionStyle"]
+- !private ["So18UITraitEnvironmentP", "setSelected"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- !private ["So18UITraitEnvironmentP", "setUpBinding"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So23UIUserActivityRestoringP", "DisposeBag"]
+- ["So23UIUserActivityRestoringP", "PublishSubject"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- !private ["So23UIUserActivityRestoringP", "disposeBagCell"]
+- !private ["So23UIUserActivityRestoringP", "expandedAt"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "lblDescription"]
+- !private ["So23UIUserActivityRestoringP", "moreButton"]
+- !private ["So23UIUserActivityRestoringP", "rx"]
+- !private ["So23UIUserActivityRestoringP", "selectionStyle"]
+- !private ["So23UIUserActivityRestoringP", "setSelected"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- !private ["So23UIUserActivityRestoringP", "setUpBinding"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "DisposeBag"]
+- ["So6UIViewC", "MyFirstCell"]
+- ["So6UIViewC", "PublishSubject"]
+- ["So6UIViewC", "UIButton"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "ViewModel"]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "binding"]
+- ["So6UIViewC", "disposeBagCell"]
+- ["So6UIViewC", "expandedAt"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "lblDescription"]
+- ["So6UIViewC", "moreButton"]
+- ["So6UIViewC", "prepareForReuse"]
+- !private ["So6UIViewC", "rx"]
+- !private ["So6UIViewC", "selectionStyle"]
+- ["So6UIViewC", "setSelected"]
+- !private ["So6UIViewC", "setTitle"]
+- ["So6UIViewC", "setUpBinding"]
+- !private ["So6UIViewC", "text"]
+- ["15TableView_Test20B5ModelC", "ExpandableCell"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DisposeBag"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PublishSubject"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disposeBagCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "expandedAt"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lblDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moreButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rx"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setUpBinding"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "rx"]
+- !private ["s21_ObjectiveCBridgeableP", "setTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "DisposeBag"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "PublishSubject"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "disposeBagCell"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "expandedAt"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lblDescription"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "moreButton"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rx"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "selectionStyle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setSelected"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setUpBinding"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "7RxSwift10CancelableP"
+- !private "7RxCocoa12ControlEventV"
+- !private "7RxCocoa16ControlEventTypeP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- "7RxSwift10DisposableP"
+- "7RxSwift10DisposeBagC"
+- "7RxSwift11DisposeBaseC"
+- !private "SE"
+- "SQ"
+- !private "15TableView_Test20B5ModelC14ExpandableCellV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "15TableView_Test211MyFirstCellC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "7RxSwift10ObservableC"
+- "7RxSwift25ObservableConvertibleTypeP"
+- "7RxSwift14ObservableTypeP"
+- "7RxSwift12ObserverTypeP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- "7RxSwift14PublishSubjectC"
+- !private "SY"
+- !private "7RxSwift8ReactiveV"
+- "7RxSwift18ReactiveCompatibleP"
+- !private "So29UITableViewCellSelectionStyleV"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- "7RxSwift11SubjectTypeP"
+- "7RxSwift27SynchronizedUnsubscribeTypeP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "15TableView_Test20B5ModelC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Modules/Differentiator.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Modules/RxDataSources.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/RxRelay.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RX.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Headers/Differentiator-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Headers/RxDataSources-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXObjCRuntime.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoaRuntime.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXKVOObserver.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Headers/Differentiator-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Headers/RxDataSources-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXDelegateProxy.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e8b5cc23694e7db79ebd9a779dd9b4c9"

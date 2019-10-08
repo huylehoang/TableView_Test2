@@ -1,0 +1,147 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnimationConfiguration"
+provides-nominal:
+- "13RxDataSources22AnimationConfigurationV"
+provides-member:
+- ["13RxDataSources22AnimationConfigurationV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnimationConfiguration"
+- "AssignmentPrecedence"
+- "UITableView"
+depends-member:
+- ["13RxDataSources22AnimationConfigurationV", "UITableView"]
+- ["13RxDataSources22AnimationConfigurationV", "deleteAnimation"]
+- ["13RxDataSources22AnimationConfigurationV", "init"]
+- ["13RxDataSources22AnimationConfigurationV", "insertAnimation"]
+- ["13RxDataSources22AnimationConfigurationV", "reloadAnimation"]
+- ["So15CALayerDelegateP", "RowAnimation"]
+- ["s7CVarArgP", "RowAnimation"]
+- ["s28CustomDebugStringConvertibleP", "RowAnimation"]
+- ["s23CustomStringConvertibleP", "RowAnimation"]
+- ["SQ", "RowAnimation"]
+- !private ["SQ", "automatic"]
+- ["7RxCocoa13HasDataSourceP", "RowAnimation"]
+- ["7RxCocoa11HasDelegateP", "RowAnimation"]
+- ["7RxCocoa21HasPrefetchDataSourceP", "RowAnimation"]
+- ["SH", "RowAnimation"]
+- !private ["SH", "automatic"]
+- ["So8NSCodingP", "RowAnimation"]
+- ["So8NSObjectC", "RowAnimation"]
+- ["So8NSObjectP", "RowAnimation"]
+- !private ["SY", "automatic"]
+- ["7RxSwift18ReactiveCompatibleP", "RowAnimation"]
+- !private ["So23UITableViewRowAnimationV", "automatic"]
+- ["13RxDataSources17SectionedViewTypeP", "RowAnimation"]
+- ["So29UIAccessibilityIdentificationP", "RowAnimation"]
+- ["So12UIAppearanceP", "RowAnimation"]
+- ["So21UIAppearanceContainerP", "RowAnimation"]
+- ["So17UICoordinateSpaceP", "RowAnimation"]
+- ["So23UIDataSourceTranslatingP", "RowAnimation"]
+- ["So13UIDynamicItemP", "RowAnimation"]
+- ["So18UIFocusEnvironmentP", "RowAnimation"]
+- ["So11UIFocusItemP", "RowAnimation"]
+- ["So20UIFocusItemContainerP", "RowAnimation"]
+- ["So30UIFocusItemScrollableContainerP", "RowAnimation"]
+- ["So30UIPasteConfigurationSupportingP", "RowAnimation"]
+- ["So11UIResponderC", "RowAnimation"]
+- ["So30UIResponderStandardEditActionsP", "RowAnimation"]
+- ["So12UIScrollViewC", "RowAnimation"]
+- ["So35UISpringLoadedInteractionSupportingP", "RowAnimation"]
+- ["So11UITableViewC", "RowAnimation"]
+- ["So18UITraitEnvironmentP", "RowAnimation"]
+- ["So23UIUserActivityRestoringP", "RowAnimation"]
+- ["So6UIViewC", "RowAnimation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "RowAnimation"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "RowAnimation"]
+depends-nominal:
+- "13RxDataSources22AnimationConfigurationV"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "7RxCocoa13HasDataSourceP"
+- "7RxCocoa11HasDelegateP"
+- "7RxCocoa21HasPrefetchDataSourceP"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "SY"
+- "7RxSwift18ReactiveCompatibleP"
+- !private "So23UITableViewRowAnimationV"
+- "13RxDataSources17SectionedViewTypeP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIFocusItemScrollableContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So11UITableViewC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Modules/Differentiator.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/RxRelay.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Leex/TableView_Test2/Pods/RxCocoa/RxCocoa/Runtime/include/_RX.h"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/RxCocoa/RxCocoa-umbrella.h"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/Differentiator/Differentiator-umbrella.h"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/RxDataSources/RxDataSources-umbrella.h"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/RxRelay/RxRelay-umbrella.h"
+- "/Users/Leex/TableView_Test2/Pods/RxCocoa/RxCocoa/RxCocoa.h"
+- "/Users/Leex/TableView_Test2/Pods/RxCocoa/RxCocoa/Runtime/include/_RXObjCRuntime.h"
+- "/Users/Leex/TableView_Test2/Pods/RxCocoa/RxCocoa/Runtime/include/RxCocoaRuntime.h"
+- "/Users/Leex/TableView_Test2/Pods/RxCocoa/RxCocoa/Runtime/include/_RXKVOObserver.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Headers/Differentiator-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/Leex/TableView_Test2/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-Swift.h"
+- "/Users/Leex/TableView_Test2/Pods/RxCocoa/RxCocoa/Runtime/include/_RXDelegateProxy.h"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxDataSources.build/unextended-module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Differentiator.build/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/module.modulemap"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxRelay.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9cebf783698fc91625fb6b01f3869854"

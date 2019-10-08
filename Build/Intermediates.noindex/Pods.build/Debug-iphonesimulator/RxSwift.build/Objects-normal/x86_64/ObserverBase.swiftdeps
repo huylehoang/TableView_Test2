@@ -1,0 +1,118 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ObserverBase"
+provides-nominal:
+- "7RxSwift12ObserverBaseC"
+provides-member:
+- ["7RxSwift12ObserverBaseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- "AtomicInt"
+- "Disposable"
+- "Event"
+- "ObserverBase"
+- "ObserverType"
+- !private "fetchOr"
+- !private "load"
+- !private "rxAbstractMethod"
+depends-member:
+- ["7RxSwift9AtomicIntC", "init"]
+- ["s7CVarArgP", "init"]
+- ["s28CustomDebugStringConvertibleP", "completed"]
+- ["s28CustomDebugStringConvertibleP", "error"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "next"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["7RxSwift10DisposableP", "AtomicInt"]
+- ["7RxSwift10DisposableP", "Element"]
+- ["7RxSwift10DisposableP", ""]
+- ["7RxSwift10DisposableP", "_Default_Element"]
+- !private ["7RxSwift10DisposableP", "_isStopped"]
+- ["7RxSwift10DisposableP", "dispose"]
+- !private ["7RxSwift10DisposableP", "fetchOr"]
+- !private ["7RxSwift10DisposableP", "load"]
+- ["7RxSwift10DisposableP", "on"]
+- !private ["7RxSwift10DisposableP", "onCore"]
+- !private ["7RxSwift10DisposableP", "rxAbstractMethod"]
+- ["SQ", "init"]
+- ["7RxSwift5EventO", "completed"]
+- ["7RxSwift5EventO", "error"]
+- ["7RxSwift5EventO", "next"]
+- ["7RxSwift16EventConvertibleP", "completed"]
+- ["7RxSwift16EventConvertibleP", "error"]
+- ["7RxSwift16EventConvertibleP", "next"]
+- ["SH", "init"]
+- ["So9NSLockingP", "init"]
+- ["So8NSObjectP", "init"]
+- ["7RxSwift12ObserverBaseC", "AtomicInt"]
+- ["7RxSwift12ObserverBaseC", "Element"]
+- ["7RxSwift12ObserverBaseC", "Event"]
+- ["7RxSwift12ObserverBaseC", "_Default_Element"]
+- !private ["7RxSwift12ObserverBaseC", "_isStopped"]
+- ["7RxSwift12ObserverBaseC", "deinit"]
+- ["7RxSwift12ObserverBaseC", "dispose"]
+- !private ["7RxSwift12ObserverBaseC", "fetchOr"]
+- ["7RxSwift12ObserverBaseC", "init"]
+- !private ["7RxSwift12ObserverBaseC", "load"]
+- ["7RxSwift12ObserverBaseC", "on"]
+- ["7RxSwift12ObserverBaseC", "onCore"]
+- !private ["7RxSwift12ObserverBaseC", "rxAbstractMethod"]
+- ["7RxSwift12ObserverTypeP", "AtomicInt"]
+- ["7RxSwift12ObserverTypeP", "Element"]
+- ["7RxSwift12ObserverTypeP", ""]
+- ["7RxSwift12ObserverTypeP", "_Default_Element"]
+- !private ["7RxSwift12ObserverTypeP", "_isStopped"]
+- ["7RxSwift12ObserverTypeP", "dispose"]
+- !private ["7RxSwift12ObserverTypeP", "fetchOr"]
+- !private ["7RxSwift12ObserverTypeP", "load"]
+- ["7RxSwift12ObserverTypeP", "on"]
+- !private ["7RxSwift12ObserverTypeP", "onCore"]
+- !private ["7RxSwift12ObserverTypeP", "rxAbstractMethod"]
+- ["7RxSwift18ReactiveCompatibleP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- "7RxSwift9AtomicIntC"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "7RxSwift10DisposableP"
+- "SQ"
+- "7RxSwift5EventO"
+- "7RxSwift16EventConvertibleP"
+- "SH"
+- "So9NSLockingP"
+- "So8NSObjectP"
+- "7RxSwift12ObserverBaseC"
+- "7RxSwift12ObserverTypeP"
+- "7RxSwift18ReactiveCompatibleP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Leex/TableView_Test2/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/Leex/TableView_Test2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "70a3e2fa50deaf37b95db64610facbb9"

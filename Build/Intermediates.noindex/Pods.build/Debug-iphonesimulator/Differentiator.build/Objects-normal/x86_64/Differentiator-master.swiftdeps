@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "a41a6cd70fcef96389a76b1d7c23d1a1"
+build_time: [1569224712, 629454000]
+inputs:
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModel.swift": [1569221886, 180569066]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType+ItemPath.swift": [1569221886, 182419411]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType.swift": [1569221886, 183300459]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/Changeset.swift": [1569221886, 182862688]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/Diff.swift": [1569221886, 179820280]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/IdentifiableType.swift": [1569221886, 178582918]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/IdentifiableValue.swift": [1569221886, 181052495]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/ItemPath.swift": [1569221886, 181509090]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/Optional+Extensions.swift": [1569221886, 181971679]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/SectionModel.swift": [1569221886, 179025811]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/SectionModelType.swift": [1569221886, 177637819]
+  "/Users/Leex/TableView_Test2/Pods/Differentiator/Sources/Differentiator/Utilities.swift": [1569221886, 178080853]

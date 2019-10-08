@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "b2a6025cfdff1199a28a8001b8f560fc"
+build_time: [1569224734, 600289000]
+inputs:
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/AnimationConfiguration.swift": [1569221886, 268347392]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/Array+Extensions.swift": [1569221886, 267919853]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/CollectionViewSectionedDataSource.swift": [1569221886, 273337322]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/DataSources.swift": [1569221886, 270376849]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/Deprecated.swift": [1569221886, 272306470]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/FloatingPointType+IdentifiableType.swift": [1569221886, 268817222]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/IntegerType+IdentifiableType.swift": [1569221886, 274430642]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/RxCollectionViewSectionedAnimatedDataSource.swift": [1569221886, 275859359]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/RxCollectionViewSectionedReloadDataSource.swift": [1569221886, 269831598]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/RxPickerViewAdapter.swift": [1569221886, 271795695]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/RxTableViewSectionedAnimatedDataSource.swift": [1569221886, 269319431]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/RxTableViewSectionedReloadDataSource.swift": [1569221886, 277189950]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/String+IdentifiableType.swift": [1569221886, 271176189]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/TableViewSectionedDataSource.swift": [1569221886, 276593371]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/UI+SectionedViewType.swift": [1569221886, 273959675]
+  "/Users/Leex/TableView_Test2/Pods/RxDataSources/Sources/RxDataSources/ViewTransition.swift": [1569221886, 272840900]

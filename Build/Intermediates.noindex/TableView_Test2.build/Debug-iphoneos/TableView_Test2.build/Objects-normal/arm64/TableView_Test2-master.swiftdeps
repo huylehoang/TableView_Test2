@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "fd71e0b1f2ca8987eb020b87c3f3a39f"
+build_time: [1569170280, 222844000]
+inputs:
+  "/Users/Leex/TableView_Test2/TableView_Test2/ViewModel.swift": [1568803875, 684350705]
+  "/Users/Leex/TableView_Test2/TableView_Test2/ViewController.swift": [1569039374, 945004637]
+  "/Users/Leex/TableView_Test2/TableView_Test2/AppDelegate.swift": [1567530254, 995141356]
+  "/Users/Leex/TableView_Test2/TableView_Test2/Cells/MyFirstCell.swift": [1568802313, 990694718]
+  "/Users/Leex/TableView_Test2/TableView_Test2/Common/Extensions.swift": [1568804068, 714951787]
+  "/Users/Leex/TableView_Test2/TableView_Test2/APIManager/APIClient.swift": [1568804074, 645426121]
